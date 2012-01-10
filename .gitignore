@@ -1,0 +1,6 @@
+/nbproject/private/
+/cache/
+/log/
+/nbproject/
+/lib/vendor/symfony/
+/config/databases.yml
